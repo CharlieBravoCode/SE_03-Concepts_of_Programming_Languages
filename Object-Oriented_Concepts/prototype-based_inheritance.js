@@ -1,3 +1,5 @@
+// Run via:
+// node Object-Oriented_Concepts/prototype-based_inheritance.js
 
 
 const parent = {
@@ -12,3 +14,4 @@ child.greet();
 
 // Output:
 // Hello from Parent object
+
